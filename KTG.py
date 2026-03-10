@@ -338,7 +338,7 @@ def create_initial_files():
             cookie_file = f"{i}.txt"
             if not os.path.exists(cookie_file):
                 with open(cookie_file, "w", encoding="utf-8") as f:
-                    f.write("# Add cookies or UID|Password|2FA here (one per line)\n# Example: c_user=123456;xs=abcd1234...\n")
+                    f.write("")
         if not os.path.exists("comment.txt"):
             sample_comments = [
                 "Great post! (Y)",
