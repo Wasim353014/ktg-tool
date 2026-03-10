@@ -1501,7 +1501,7 @@ def main():
     print(f"{neon_purple}  [5] {HEART_SYMBOL} PAGE CREATE.............[FULL SAVE METHOD]{reset}")
     print(f"{neon_orange}  [6] {HEART_SYMBOL} PAGE ACTIVATE...........[FULL SAVE METHOD]{reset}")
     print(f"{neon_red}  [7] {HEART_SYMBOL} DP UPLOAD...............[ALL TYPE PROFILE/PAGES]{reset}")
-    print(f"{hot_pink}  [8] {HEART_SYMBOL} POLL VOTING.............[FULLY AUTO WITH LUSH SPEED ids+PAGES both]{reset}")
+    print(f"{hot_pink}  [8] {HEART_SYMBOL} POLL VOTING.............[ LUSH SPEED ids+PAGES both]{reset}")
     print(f"{NEON_BLUE}  [9] {HEART_SYMBOL}EXPIRED COOKIE CLEANER...[FULL SAVE METHOD]{reset}")
     print(f"{electric_blue}{'─' * 63}{reset}")
 
